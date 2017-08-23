@@ -12,11 +12,11 @@
 
 [[Cloudframeworks]SMACK Big Data Architecture](https://github.com/cloudframeworks-smack) v1.0
 
+[[Cloudframeworks]Fabric Smart Contract](https://github.com/cloudframeworks-blockchain) v1.0
+
 ## Coming soon
 
 [[Cloudframeworks]TensorFlow Chatbot](https://github.com/cloudframeworks-tensorflow)
-
-[[Cloudframeworks]Fabric Smart Contract](https://github.com/cloudframeworks-blockchain)
 
 [[Cloudframeworks]Hadoop](https://github.com/cloudframeworks-hadoop)
 
