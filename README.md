@@ -14,9 +14,9 @@
 
 [[Cloudframeworks]Fabric Smart Contract](https://github.com/cloudframeworks-blockchain) v1.0
 
-## Coming soon
-
 [[Cloudframeworks]TensorFlow Chatbot](https://github.com/cloudframeworks-tensorflow)
+
+## Coming soon
 
 [[Cloudframeworks]Hadoop](https://github.com/cloudframeworks-hadoop)
 
