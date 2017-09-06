@@ -1,7 +1,7 @@
 ![20170421149274059411420.png](http://oe5ahutux.bkt.clouddn.com/20170421149274059411420.png)
 
-* [Changelog EN](#EN)
-* [Changelog 中文](#CN)
+* [EN](#EN)
+* [中文](#CN)
 
 # <a name="EN"></a>[Cloud Frameworks]About Cloud Frameworks
 
