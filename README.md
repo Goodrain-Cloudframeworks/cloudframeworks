@@ -20,6 +20,8 @@
 
 [[Cloudframeworks]Hadoop](https://github.com/cloudframeworks-hadoop)
 
+[[Cloudframeworks]Ignite](https://github.com/cloudframeworks-ignite)
+
 ## Contact
 
 [Contributing](CONTRIBUTING.md)
